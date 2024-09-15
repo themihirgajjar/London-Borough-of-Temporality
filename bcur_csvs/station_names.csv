@@ -1,0 +1,715 @@
+﻿MNLC,StationName
+500,Acton Town
+501,Barbican
+502,Aldgate
+503,Aldgate East
+504,Stratford International DLR
+505,Alperton
+506,Amersham
+507,Angel
+508,Archway
+509,Arnos Grove
+510,Arsenal
+511,Baker Street
+512,Balham LU
+513,Bank and Monument
+514,Barking
+515,Barkingside
+516,Barons Court
+517,Bayswater
+518,Becontree
+519,Belsize Park
+520,Bethnal Green LU
+521,Blackfriars LU
+522,Blackhorse Road
+523,King George V
+524,Bond Street
+525,Borough
+526,Boston Manor
+527,Bounds Green
+528,Bow Road
+529,Brent Cross
+530,Bromley-by-Bow
+531,Buckhurst Hill
+532,Burnt Oak
+533,London City Airport
+534,Caledonian Road
+535,Camden Town
+536,Cannon Street LU
+537,Canons Park
+538,Pontoon Dock
+539,Chalfont & Latimer
+540,Chalk Farm
+541,Chancery Lane
+542,Embankment
+543,Chesham
+544,Chigwell
+545,Chiswick Park
+546,Chorleywood
+547,Clapham Common
+548,Clapham North
+549,Clapham South
+550,Cockfosters
+551,Colindale
+552,Colliers Wood
+553,Covent Garden
+554,Croxley
+555,Dagenham East
+556,Dagenham Heathway
+557,Debden
+558,Dollis Hill
+559,West Silvertown
+560,Ealing Broadway
+561,Ealing Common
+562,Earl's Court
+563,East Acton
+564,Eastcote
+565,East Finchley
+566,East Ham
+567,East Putney
+568,Edgware
+569,Edgware Road (DIS)
+570,Elephant & Castle LU
+571,Elm Park
+572,Epping
+573,Woolwich Arsenal
+574,Euston LU
+575,Euston Square
+576,Fairlop
+577,Farringdon
+578,Finchley Central
+579,Finchley Road
+580,Finsbury Park LU
+581,Fulham Broadway
+582,Gants Hill
+583,Gloucester Road
+584,Golders Green
+585,Goldhawk Road
+586,Goodge Street
+587,Grange Hill
+588,Great Portland Street
+589,Greenford
+590,Green Park
+591,Gunnersbury
+592,Hainault
+593,Hammersmith (DIS)
+594,Hampstead
+595,Hanger Lane
+596,Harlesden
+597,Harrow & Wealdstone
+598,Harrow-on-the-Hill
+599,Wood Lane
+601,Hendon Central
+602,High Barnet
+603,Highbury & Islington
+604,Highgate
+605,High Street Kensington
+606,Hillingdon
+607,Holborn
+608,Holland Park
+609,Holloway Road
+610,Hornchurch
+611,Hounslow Central
+612,Hounslow East
+613,Hounslow West
+614,Hyde Park Corner
+615,Ickenham
+616,Kennington
+617,Kensal Green
+618,Kensington (Olympia)
+619,Kentish Town
+620,Kenton
+621,Kew Gardens
+622,Kilburn
+623,Kilburn Park
+624,Kingsbury
+625,King's Cross St. Pancras
+626,Knightsbridge
+627,Ladbroke Grove
+628,Lambeth North
+629,Lancaster Gate
+630,Latimer Road
+631,Leicester Square
+632,Leyton
+633,Leytonstone
+634,Liverpool Street LU
+635,London Bridge LU
+636,Loughton
+637,Maida Vale
+638,Manor House
+639,Mansion House
+640,Marble Arch
+641,Marylebone LU
+642,Mile End
+643,Mill Hill East
+645,Moorgate
+646,Moor Park
+647,Morden
+648,Mornington Crescent
+649,Neasden
+650,Newbury Park
+653,North Acton
+654,North Ealing
+655,Northfields
+656,North Harrow
+657,Northolt
+659,North Wembley
+660,Northwick Park
+661,Northwood
+662,Northwood Hills
+663,Notting Hill Gate
+664,Oakwood
+665,Old Street
+667,Osterley
+668,Oval
+669,Oxford Circus
+670,Paddington TfL
+671,Park Royal
+672,Parsons Green
+673,Perivale
+674,Piccadilly Circus
+675,Pinner
+676,Plaistow
+677,Preston Road
+678,Putney Bridge
+679,Queensbury
+680,Queen's Park
+681,Queensway
+682,Ravenscourt Park
+683,Rayners Lane
+684,Redbridge
+685,Regent's Park
+686,Richmond
+687,Rickmansworth
+688,Roding Valley
+690,Royal Oak
+691,Ruislip
+692,Ruislip Gardens
+693,Ruislip Manor
+694,Russell Square
+695,St. James's Park
+696,St. John's Wood
+697,St. Paul's
+698,Seven Sisters
+700,Shepherd's Bush LU
+702,Sloane Square
+703,Snaresbrook
+704,South Ealing
+705,Southfields
+706,Southgate
+707,South Harrow
+708,South Kensington
+709,South Kenton
+710,South Ruislip
+711,South Wimbledon
+712,South Woodford
+713,Stamford Brook
+714,Stanmore
+715,Stepney Green
+716,Stockwell
+717,Stonebridge Park
+718,Charing Cross LU
+719,Stratford
+720,Sudbury Hill
+721,Sudbury Town
+723,Swiss Cottage
+724,Temple
+725,Theydon Bois
+726,Tooting Bec
+727,Tooting Broadway
+728,Tottenham Court Road
+729,Tottenham Hale LU
+730,Totteridge & Whetstone
+731,Tower Hill
+733,Tufnell Park
+734,Turnham Green
+735,Turnpike Lane
+736,Upminster
+737,Upminster Bridge
+738,Upney
+739,Upton Park
+740,Uxbridge
+741,Victoria LU
+742,Walthamstow Central
+743,Wanstead
+745,Warren Street
+746,Warwick Avenue
+747,Waterloo LU
+748,Watford
+749,Stratford High Street
+750,Abbey Road
+751,Wembley Central
+752,Wembley Park
+753,West Acton
+754,Westbourne Park
+755,West Brompton
+756,West Finchley
+757,West Ham
+758,West Hampstead LU
+759,West Harrow
+760,West Kensington
+761,Westminster
+762,West Ruislip
+763,Whitechapel
+764,White City
+765,Willesden Green
+766,Willesden Junction
+767,Wimbledon
+768,Wimbledon Park
+769,Woodford
+770,Wood Green
+771,Woodside Park
+773,Hammersmith (H&C)
+774,Edgware Road (Bak)
+775,Shepherd's Bush Market
+776,Pimlico
+777,Vauxhall LU
+778,Brixton LU
+779,Hatton Cross
+780,Heathrow Terminals 123 LU
+781,Heathrow Terminal 4 LU
+783,Heathrow Terminal 5 LU
+784,Southwark
+787,Bermondsey
+788,Canada Water
+789,North Greenwich
+831,Nine Elms
+832,Battersea Power Station
+842,Canary Wharf DLR
+850,All Saints
+851,Bow Church
+852,Canary Wharf LU
+853,Langdon Park
+854,Crossharbour
+855,Heron Quays
+856,Island Gardens
+857,Mudchute
+858,Poplar
+859,Pudding Mill Lane
+860,Shadwell DLR
+861,South Quay
+862,Limehouse DLR
+864,Tower Gateway
+865,Westferry
+866,West India Quay
+867,Devons Road
+879,Cutty Sark
+882,Blackwall
+883,East India
+884,Canning Town
+886,Royal Victoria
+887,Custom House
+888,Prince Regent
+889,Star Lane
+890,Royal Albert
+891,Beckton Park
+893,Cyprus
+894,Gallions Reach
+895,Beckton
+897,Deptford Bridge
+898,Elverson Road
+928,Greenwich
+940,Lewisham DLR
+1022,Haggerston
+1023,Hoxton
+1024,Shoreditch High Street
+1039,Rotherhithe
+1082,Shadwell LO
+1083,Surrey Quays
+1085,Wapping
+1335,Barking Riverside
+1395,Bushey
+1398,Hatch End
+1402,Watford Junction
+1404,Acton Central
+1409,Gospel Oak
+1413,Hampstead Heath
+1415,Kilburn High Road
+1421,West Hampstead LO
+1429,Dalston Kingsland
+1434,Headstone Lane
+1437,Brondesbury
+1438,Brondesbury Park
+1439,Caledonian Road & Barnsbury
+1440,Camden Road
+1441,Canonbury
+1442,Carpenders Park
+1443,Dalston Junction
+1444,Euston NR
+1445,Finchley Road & Frognal
+1448,Kensal Rise
+1449,Kentish Town West
+1451,South Hampstead
+1452,South Acton
+1455,Watford High Street
+1475,Marylebone NR
+1478,Northolt Park
+1483,Sudbury & Harrow Road
+1484,Sudbury Hill Harrow
+1509,Wembley Stadium
+1519,Cricklewood
+1522,Hendon
+1524,Upper Holloway
+1525,West Hampstead NR
+1527,Mill Hill Broadway
+1542,Elstree & Borehamwood
+1543,Harpenden
+1546,Radlett
+1548,St Albans City
+1555,St. Pancras International
+3000,Acton Main Line
+3087,Paddington NR
+3098,Castle Bar Park
+3099,Drayton Green
+3138,South Greenford
+3147,Maidenhead
+3149,Reading
+3151,Taplow
+3155,Twyford
+3170,Iver
+3171,Langley
+3172,Slough
+3174,West Drayton
+3176,Burnham
+3186,Hayes & Harlington
+3187,Southall
+3188,West Ealing
+3191,Hanwell
+3645,Luton Airport Parkway
+5046,Beckenham Junction
+5047,Catford Bridge
+5048,Clock House
+5049,Elmers End
+5050,Hayes (Kent)
+5051,Lewisham NR
+5053,Lower Sydenham
+5054,West Wickham
+5056,Eden Park
+5057,Ladywell
+5058,New Beckenham
+5059,St. John's
+5062,Bellingham
+5063,Bickley
+5064,Bromley South
+5066,Herne Hill
+5068,Nunhead
+5069,Mitcham Eastfields
+5072,Penge East
+5073,St. Mary Cray
+5075,Swanley
+5076,Beckenham Hill
+5077,Catford
+5078,Crofton Park
+5080,Kent House
+5081,Brixton NR
+5082,Loughborough Junction
+5083,Ravensbourne
+5084,Shortlands
+5085,Sydenham Hill
+5086,West Dulwich
+5089,Barnehurst
+5092,Belvedere
+5093,Bexley
+5094,Bexleyheath
+5095,Blackheath
+5096,Bromley North
+5098,Chelsfield
+5099,Chislehurst
+5100,Crayford
+5101,Dartford
+5103,Eltham
+5104,Erith
+5107,Hither Green
+5108,Kidbrooke
+5109,Knockholt
+5110,Lee
+5112,Blackfriars NR
+5118,Mottingham
+5119,New Eltham
+5121,City Thameslink
+5122,Orpington
+5123,Petts Wood
+5125,Sidcup
+5128,Welling
+5131,Abbey Wood
+5132,Albany Park
+5135,Elmstead Woods
+5137,Falconwood
+5139,Grove Park
+5142,Cannon Street NR
+5143,Charing Cross NR
+5144,Charlton
+5145,Deptford
+5148,London Bridge NR
+5149,Maze Hill
+5150,New Cross
+5151,Westcombe Park
+5153,Woolwich Dockyard
+5154,Slade Green
+5155,Sundridge Park
+5158,Waterloo East
+5208,Plumstead
+5246,Elephant & Castle NR
+5289,Haydons Road
+5290,St. Helier
+5291,Morden South
+5292,South Merton
+5293,West Sutton
+5301,Clapham High Street
+5345,New Cross Gate
+5348,Banstead
+5350,Belmont
+5351,Caterham
+5352,Cheam
+5353,Chipstead
+5355,East Croydon
+5356,Crystal Palace
+5358,East Dulwich
+5360,Epsom
+5361,Epsom Downs
+5362,Forest Hill
+5363,Gipsy Hill
+5364,Hackbridge
+5365,Horley
+5366,Kingswood
+5372,Wandsworth Road
+5376,Norwood Junction
+5378,Penge West
+5379,Purley
+5380,Salfords
+5382,Coulsdon Town
+5383,Streatham
+5384,Streatham Common
+5385,Sutton (Surrey)
+5386,Tadworth
+5387,Tattenham Corner
+5388,Thornton Heath
+5389,Tooting
+5390,Tulse Hill
+5391,Upper Warlingham
+5392,Waddon
+5394,Wallington
+5395,Wandsworth Common
+5396,Whyteleafe
+5397,Anerley
+5399,Balham NR
+5401,Birkbeck
+5404,Brockley
+5405,Carshalton
+5406,Carshalton Beeches
+5408,Coulsdon South
+5410,South Croydon
+5411,West Croydon NR
+5414,Earlswood
+5415,Ewell East
+5416,Gatwick Airport
+5418,Honor Oak Park
+5419,Kenley
+5420,Battersea Park
+5421,Denmark Hill
+5423,Peckham Rye
+5424,Queens Road Peckham
+5425,South Bermondsey
+5426,Victoria NR
+5427,Mitcham Junction
+5428,Norbury
+5429,North Dulwich
+5430,Purley Oaks
+5431,Reedham
+5432,Riddlesdown
+5433,Sanderstead
+5434,Selhurst
+5435,Streatham Hill
+5436,Sutton Common
+5437,Sydenham
+5438,West Norwood
+5439,Whyteleafe South
+5441,Woodmansterne
+5475,Merstham
+5478,Redhill
+5551,Barnes
+5552,Brentford
+5554,Chessington South
+5559,Feltham
+5560,Hampton
+5561,Hampton Court
+5563,Hounslow
+5565,Kingston
+5567,New Malden
+5568,Norbiton
+5569,Raynes Park
+5571,Surbiton
+5572,Teddington
+5573,Tolworth
+5574,Twickenham
+5576,Wandsworth Town
+5579,Worcester Park
+5580,Barnes Bridge
+5581,Berrylands
+5582,Chessington North
+5583,Chiswick
+5584,Earlsfield
+5586,Ewell West
+5587,Fulwell
+5589,Hampton Wick
+5592,Isleworth
+5593,Kew Bridge
+5595,Clapham Junction
+5596,Queenstown Road (Battersea)
+5597,Vauxhall NR
+5598,Waterloo NR
+5599,Malden Manor
+5600,Mortlake
+5601,North Sheen
+5603,Putney
+5604,St. Margaret's (Greater London)
+5606,Stoneleigh
+5607,Strawberry Hill
+5609,Syon Lane
+5610,Thames Ditton
+5611,Whitton
+5612,Wimbledon Chase
+5645,Motspur Park
+6000,Drayton Park
+6004,Essex Road
+6006,Bayford
+6007,Crews Hill
+6008,Cuffley
+6010,Enfield Chase
+6012,Harringay
+6015,Hornsey
+6018,New Barnet
+6019,New Southgate
+6020,Oakleigh Park
+6021,Palmers Green
+6022,Potters Bar
+6024,Winchmore Hill
+6025,Alexandra Palace
+6027,Bowes Park
+6028,Gordon Hill
+6029,Grange Park
+6070,Hatfield
+6073,Welham Green
+6074,Brookmans Park
+6075,Hadley Wood
+6085,Hertford North
+6119,Finsbury Park NR
+6121,King's Cross
+6183,Welwyn Garden City
+6560,Canary Wharf EL
+6561,Custom House EL
+6562,Woolwich EL
+6599,Meridian Water
+6810,Brimsdown
+6812,Broxbourne
+6814,Cheshunt
+6815,Enfield Lock
+6818,Hertford East
+6819,Ponders End
+6820,Rye House
+6821,St Margarets (Hertfordshire)
+6823,Waltham Cross
+6824,Ware
+6867,Hackney Downs
+6872,Brentwood
+6874,Chadwell Heath
+6876,Forest Gate
+6877,Gidea Park
+6878,Goodmayes
+6879,Harold Wood
+6881,Ilford
+6883,Manor Park
+6886,Romford
+6888,Shenfield
+6893,Seven Kings
+6913,Bush Hill Park
+6914,Chingford
+6919,Highams Park
+6926,Clapton
+6927,Lea Bridge
+6934,Stoke Newington
+6941,Edmonton Green
+6947,Southbury
+6949,Theobalds Grove
+6951,Tottenham Hale NR
+6952,Turkey Street
+6954,Wood Street
+6956,White Hart Lane
+6958,Bruce Grove
+6959,Enfield Town
+6961,Bethnal Green LO
+6962,Cambridge Heath
+6965,Liverpool Street NR
+6966,London Fields
+6967,Rectory Road
+6968,Stamford Hill
+6970,Maryland
+6971,Northumberland Park
+6972,Silver Street
+6973,St James Street
+6977,Hackney Central
+6978,Hackney Wick
+6979,Homerton
+7090,Heathrow Terminals 2 & 3 EL
+7091,Heathrow Terminal 4 EL
+7222,Stratford International NR
+7401,Harringay Green Lanes
+7402,Leyton Midland Road
+7403,Leytonstone High Road
+7404,South Tottenham
+7406,Crouch Hill
+7407,Walthamstow Queen's Road
+7408,Wanstead Park
+7440,Dagenham Dock
+7443,Grays
+7447,Chafford Hundred
+7451,Ockendon
+7453,Purfleet
+7454,Rainham (Essex)
+7467,Woodgrange Park
+7473,Emerson Park
+7490,Fenchurch Street
+7491,Limehouse NR
+8204,Paddington HEX
+8776,West Croydon Trams
+8777,Wimbledon Trams
+8779,Woodside
+9440,Addiscombe
+9441,Addington Village
+9442,Ampere Way
+9443,Arena
+9444,Avenue Road
+9445,Beckenham Junction Trams
+9446,Beckenham Road
+9449,Beddington Lane
+9450,Belgrave Walk
+9454,Birkbeck Trams
+9459,Blackhorse Lane
+9460,Church Street
+9464,Coombe Lane
+9468,Dundonald Road
+9470,East Croydon Trams
+9471,Elmers End Trams
+9472,Fieldway
+9473,George Street
+9474,Gravel Hill
+9475,Harrington Road
+9476,King Henry's Drive
+9477,Lebanon Road
+9478,Lloyd Park
+9479,Merton Park
+9480,Mitcham
+9481,Mitcham Junction Trams
+9482,Morden Road
+9484,New Addington
+9485,Phipps Bridge
+9486,Reeves Corner
+9487,Sandilands
+9488,Centrale
+9491,Therapia Lane
+9497,Waddon Marsh
+9498,Wandle Park
+9499,Wellesley Road
+9586,Imperial Wharf
+9587,Shepherd's Bush NR
+9846,Heathrow Terminal 5 EL
