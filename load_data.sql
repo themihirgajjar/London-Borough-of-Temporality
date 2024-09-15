@@ -1,3 +1,4 @@
+-- Modify File Location as Needed
 -- stations
 .import --csv --skip 1 /bcur_csvs/station_names.csv stations
 
@@ -30,6 +31,13 @@
 
 -- 2022_tuetothu
 .import --csv --skip 1 /bcur_csvs/2022_tuetothu.csv tuetothu_2022
+
+-- regions
+.import --csv --skip 1 /bcur_csvs/boroughs_and_sub_regions.csv regions
+
+-- classify
+.import --csv --skip 1 /bcur_csvs/regional_classification.csv classify
+
 
 
 -- morning	05:00-07:00
