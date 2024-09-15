@@ -75,7 +75,7 @@ plt.show()
 
 ```
 
-![alt text](../images/Figure_1.png)
+![alt text](/images/Figure_1.png)
 
 >There is a right-skewed distribution in both the datasets. It is typical with transportation datasets as few stations tend to get extremely high exit counts compared to most other stations.
 
@@ -181,7 +181,7 @@ name|dest_id|total_weekly_exits_19|total_weekly_exits_22|percentage_change|
 
 * Stations by Total Weekly Exits
 
-![alt text](../images/ranking_change_slope.png)
+![alt text](/images/ranking_change_slope.png)
 
 * Top 20 Destinations by Total Weekly Exits
 
@@ -241,16 +241,16 @@ Moorgate is a new entry, Vauxhall dropped from the list, Tottehnam Court Road, L
 ### 2.4 Top 3 Destinations Preference by Station
 * Top 3 Destinations by Origin (Count)
 
-![alt text](../images/top_dest_by_count_2019.jpg)
+![alt text](/images/top_dest_by_count_2019.jpg)
 "2019"
-![alt text](../images/top_dest_by_count_2022.jpg)
+![alt text](/images/top_dest_by_count_2022.jpg)
 "2022"
 
 * Top 3 Destinations by Origin (Volume)
 
-![alt text](../images/top_dest_by_weight_2019.jpg)
+![alt text](/images/top_dest_by_weight_2019.jpg)
 "2019"
-![alt text](../images/top_dest_by_weight_2022.jpg)
+![alt text](/images/top_dest_by_weight_2022.jpg)
 "2022"
 
 ### 2.5 Most Popular Destinations by Origin (2019 vs. 2022)
